@@ -1,0 +1,14 @@
+{
+    "name": "tana_gh.OhisamaRestaurant",
+    "rootNamespace": "tana_gh.OhisamaRestaurant",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
